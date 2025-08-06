@@ -1,0 +1,35 @@
+
+
+.shortener-container {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: rgb(199, 149, 105);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.shortener-container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.shortener-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.shortener-container input {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.shortener-container button {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5
+}
